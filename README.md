@@ -1,1 +1,1 @@
-# SystemyBazDanych
+# SBD : Projekt codename "Bukmacherka"
